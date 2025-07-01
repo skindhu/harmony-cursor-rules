@@ -50,6 +50,9 @@ pip install -r Requirements.txt
 ```bash
 # 设置Gemini API密钥
 export GEMINI_API_KEY="your-gemini-api-key"
+
+# 可选：设置自定义API端点（如使用代理或自定义服务）
+export GEMINI_BASE_URL="https://your-custom-api-endpoint.com"
 ```
 
 ### 运行程序
