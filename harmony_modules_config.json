@@ -1,0 +1,130 @@
+{
+  "modules": {
+    "组件封装与复用": {
+      "directory": "component_encapsulation_reuse",
+      "sub_modules": {
+        "组件动态创建": {
+          "module_name": "component_dynamic_creation",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-ui-dynamic-operations"
+        },
+        "组件封装": {
+          "module_name": "component_encapsulation",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-ui-component-encapsulation"
+        },
+        "组件复用": {
+          "module_name": "component_reuse",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-component-reuse"
+        }
+      }
+    },
+    "布局与弹窗": {
+      "directory": "layout_dialog",
+      "sub_modules": {
+        "布局优化指导": {
+          "module_name": "layout_optimization",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-improve-layout-performance"
+        },
+        "常见列表流": {
+          "module_name": "common_list_flows",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-common-list-flows"
+        },
+        "Grid网格元素拖拽交换": {
+          "module_name": "grid_drag_swap",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-grid-drag-swap"
+        },
+        "图文作品轮播": {
+          "module_name": "carousel-graphic-works",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-carousel-graphic-works"
+        },
+        "图片预览器": {
+          "module_name": "picture-preview",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-picture-preview"
+        },
+        "自定义弹窗选型与开发": {
+          "module_name": "customdialog-selection-and-development",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-customdialog-selection-and-development"
+        },
+        "评论回复弹窗": {
+          "module_name": "comment-reply-pop-up-window",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-comment-reply-pop-up-window"
+        },
+        "基于DialogHub的通用弹窗": {
+          "module_name": "hadss_dialoghub",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-hadss_dialoghub"
+        },
+        "文本展开折叠": {
+          "module_name": "text-expand-collapse",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-text-expand-collapse"
+        },
+        "基于ScrollComponents实现瀑布流": {
+          "module_name": "scroll_components_waterfall",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-waterflow-based-on-scrollcomponents"
+        }
+      }
+    },
+    "声明式语法": {
+      "directory": "declarative_syntax",
+      "sub_modules": {
+        "状态管理最佳实践": {
+          "module_name": "status-management",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-status-management"
+        },
+        "组件冗余刷新解决方案": {
+          "module_name": "redundancy-refresh-guide",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-redundancy-refresh-guide"
+        },
+        "基于StateStore的全局状态管理": {
+          "module_name": "state_store_global_management",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-global-state-management-state-store"
+        }
+      }
+    },
+    "手势与导航": {
+      "directory": "gesture_navigation",
+      "sub_modules": {
+        "常见导航样式案例": {
+          "module_name": "multi-tab-practice",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-multi-tab-practice"
+        },
+        "基于HMRouter的页面跳转": {
+          "module_name": "hmrouter_page_jump",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-hmrouter"
+        },
+        "手势事件冲突解决方案": {
+          "module_name": "gesture_event_conflict_solution",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-gestures-practice"
+        }
+      }
+    },
+    "动画与转场": {
+      "directory": "animation_transition",
+      "sub_modules": {
+        "动画使用指导": {
+          "module_name": "animation_usage_guide",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-fair-use-animation"
+        },
+        "页面间转场": {
+          "module_name": "page_transition",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-page-transition"
+        },
+        "一镜到底动效": {
+          "module_name": "one_shot_animation",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-one-shot-to-the-end"
+        }
+      }
+    },
+    "主题与样式": {
+      "directory": "theme_style",
+      "sub_modules": {
+        "深色模式适配": {
+          "module_name": "dark_mode_adaptation",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-dark-mode-adaptation"
+        },
+        "页面亮度设置": {
+          "module_name": "page_brightness_setting",
+          "url": "https://developer.huawei.com/consumer/cn/doc/best-practices/bpta-page-brightness-settings"
+        }
+      }
+    }
+  }
+}
