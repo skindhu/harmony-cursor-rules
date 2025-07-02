@@ -67,7 +67,6 @@ python main.py --debug
 ### 使用生成的规则
 1. 在你的HarmonyOS项目根目录创建 `.cursorrules` 文件
 2. 将 `final_cursor_rules` 目录中相关 `.md` 文件的内容复制到 `.cursorrules` 文件中
-3. 重启Cursor IDE，即可享受专业的HarmonyOS开发智能提示
 
 ## 📊 输出示例
 
