@@ -6,6 +6,8 @@ HarmonyOS作为新兴的移动操作系统，由于发展历史相对较短，�
 
 本项目旨在解决这一痛点，通过智能爬取华为官方HarmonyOS开发文档，自动提取最佳实践并生成符合Cursor IDE规范的开发规则文件，为开发者提供专业、准确的HarmonyOS开发指导。
 
+详细讲解请阅读文章：https://mp.weixin.qq.com/s/gLgP7gGU0pmGc2x1hS-0UQ
+
 ## 🚀 核心功能
 
 - **📋 智能文档爬取**: 自动爬取华为官方HarmonyOS最佳实践文档，支持SPA页面解析
